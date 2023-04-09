@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="title">House of Cards</string>
+    <string name="episode">S1:E2</string>
+    <string name="time">01:35</string>
+    <string name="time2">46:48</string>
+</resources>
